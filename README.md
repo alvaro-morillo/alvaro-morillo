@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/alvaro-morillo-569702421/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
   </a>
+  <a href="alvaromorillo179@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" />
+  </a>
   <a href="TU_LINK_DE_PORTFOLIO" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2D3748?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" height="35" />
   </a>
