@@ -2,7 +2,14 @@
   <h1>¡Hola!👋 Soy Álvaro Morillo </h1>
   <div align="center">
   <h2>💻 Full Stack Developer</h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Apacionado+por+crear+soluciones+web+eficientes,+limpias+y+escalables;Bienvenidos+a+mi+espacio+digital" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&width=435&lines=Apasionado+por+crear+soluciones+web;Bienvenido+a+mi+espacio+digital" alt="Typing SVG" />
+</div>
+  <a href="https://www.linkedin.com/in/alvaro-morillo-569702421/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
+  </a>
+  <a href="TU_LINK_DE_PORTFOLIO" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2D3748?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" height="35" />
+  </a>
 </div>
 </div>
 
